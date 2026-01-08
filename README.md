@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hammad Afzal</h1>
 <h3 align="center">AI Enthusiast | Backend Learner | DevOps Explorer</h3>
 
+<p align="center">
+  <a href="https://gitroll.io/profile/uZ1fCRDvK7CX9oiRFlzt0HFzWtbS2">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uZ1fCRDvK7CX9oiRFlzt0HFzWtbS2" alt="GitRoll Profile"/>
+  </a>
+</p>
+
+
 
 ---
 
